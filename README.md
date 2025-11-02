@@ -12,7 +12,6 @@ A romantic drama based on Nicholas Sparks’ novel of the same name. Set in a sm
 **Directed by** Adam Shankman 
 
 **Main Cast**
-Shane West _as_ Landon Carter
-Mandy Moore _as_ Jamie Sullivan 
+Shane West _as_ Landon Carter and Mandy Moore _as_ Jamie Sullivan 
 
 >Our love is like the wind; I can't see it, but I can feel it
